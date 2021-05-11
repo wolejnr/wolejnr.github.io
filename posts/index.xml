@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Adewole Adewumi</title>
+    <link>https://wolejnr.github.io/posts/</link>
+    <description>Recent content in Projects on Adewole Adewumi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 23:27:37 -0400</lastBuildDate><atom:link href="https://wolejnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job Posting Scraper</title>
+      <link>https://wolejnr.github.io/posts/job-scraper/</link>
+      <pubDate>Sun, 09 May 2021 23:27:37 -0400</pubDate>
+      
+      <guid>https://wolejnr.github.io/posts/job-scraper/</guid>
+      <description>The essence of this tool was to help an intending job applicant to easily filter through job postings on TimesJobs website and get an up to date record of job postings that are not more than a day. The jobs are also relevant to the applicant’s skillset.
+ Python was language used for the project Google Colab was the environment in which the project was implemented Requests library was used to get data from the website BeautifulSoup was used to format the data and extract relevant content Pandas was the library used to store the extracted data into dataframes    Link to Notebook</description>
+    </item>
+    
+    <item>
+      <title>Yahoo Finance Project</title>
+      <link>https://wolejnr.github.io/posts/yahoo-finance/</link>
+      <pubDate>Sun, 09 May 2021 23:27:37 -0400</pubDate>
+      
+      <guid>https://wolejnr.github.io/posts/yahoo-finance/</guid>
+      <description>This project was executed on behalf of Company ABC Inc. The goal of this project was to scrape data from the Yahoo Finance page, wrangle the data so as to be able to perform DataFrame filtering and sorting.
+ Python was the language used for the project Requests library was used to get data from the website BeautifulSoup was used to format the data and extract relevant content for the data wrangling step Pandas was the library used to store the extracted data into dataframes Google Colab was the environment used for implementing the project  Through this project, the client is able to keep track of active stocks so as to guide their decision-making process.</description>
+    </item>
+    
+  </channel>
+</rss>
