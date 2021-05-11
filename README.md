@@ -1,2 +1,2 @@
 # wolejnr.github.io
-My GitHub page site
+My official data science portfolio built with [Hugo](https://gohugo.io/) using the [Ananke theme](https://themes.gohugo.io/gohugo-theme-ananke/)
